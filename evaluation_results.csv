@@ -1,0 +1,6 @@
+idx,text_snippet,actual_stars,p1_pred,p1_valid,p2_pred,p2_valid,p3_pred,p3_valid
+0,I got 'new' tires from them and within two weeks got a flat. I took my car to a local mechanic to se,1,1.0,True,1.0,True,1.0,True
+1,Don't waste your time.  We had two different people come to our house to give us estimates for a dec,1,1.0,True,1.0,True,1.0,True
+2,"All I can say is the worst! We were the only 2 people in the place for lunch, the place was freezing",1,1.0,True,1.0,True,1.0,True
+3,I have been to this restaurant twice and was disappointed both times. I won't go back. The first tim,1,,False,,False,,False
+4,Food was NOT GOOD at all! My husband & I ate here a couple weeks ago for the first time. I ordered a,1,,False,,False,,False
